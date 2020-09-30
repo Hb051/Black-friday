@@ -1,4 +1,4 @@
-Black Friday Sales Prediction
+#Black Friday Sales Prediction
 While we don't know the context in which John Keats mentioned this, we are sure about its implication in data science. While you would have enjoyed and gained exposure to real world problems in this challenge, here is another opportunity to get your hand dirty with this practice problempowered by Analytics Vidhya.
 
 This hackathon aims to provide a professional setup to showcase your skills and compete with their peers, learn new things and achieve a steep learning curve.
